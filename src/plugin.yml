@@ -1,0 +1,5 @@
+name: artyshit
+main: arty.example..plugin.Shit
+version: 1.0.0
+api: [1.0.0]
+author: ARTY04
